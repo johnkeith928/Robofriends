@@ -1,0 +1,13 @@
+h2{
+    font-family: 'SEGA LOGO FONT'; 
+    font-weight: normal;
+    font-style: italic; 
+    color:rgb(4, 31, 37)
+}
+p{
+    font-style: oblique;
+    font-weight: bold;
+}
+.wining{
+    background-color:e3ff00;
+}
